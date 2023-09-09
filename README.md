@@ -1,4 +1,4 @@
-# Frontend Mentor - News homepage
+![image](https://github.com/fizasaif123/Responsive-News-Homepage/assets/62798377/d8ad1646-123f-4601-b4e0-11fcc83bd6c4)
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
